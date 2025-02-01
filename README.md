@@ -1,7 +1,7 @@
 # CourtIQ: AI-Powered Legal Assistant 🚀⚖️
 
-CourtIQ is an AI-powered legal assistant that helps bridge the justice gap by making legal help more accessible. Built during the Women in AI RAG Hackathon at Stanford University (where it won 2nd place! 🏆), CourtIQ helps users understand their legal rights and find relevant legal precedents.
-Link to blog - here
+CourtIQ is an AI-powered legal assistant that helps bridge the justice gap by making legal help more accessible. Built during the Women in AI RAG Hackathon at Stanford University (where it **won 2nd place!** 🏆), CourtIQ helps users understand their legal rights and find relevant legal precedents.
+Link to blog - [here](https://zilliz.com/blog/2025-women-in-ai-rag-hackathon-highlights#App-CourtIQ-2nd-place)
 
 ## Problem Statement 🎯
 The "Justice Gap" refers to the disparity between legal needs and resources available, where individuals fail to pursue legal action due to:
@@ -39,7 +39,7 @@ ANTHROPIC_API_KEY=your_api_key_here
 1. Start Milvus server
 2. Run the application:
 ```bash
-python attorney.py
+python CourtIQ.py
 ```
 
 ## Features ✨
@@ -58,7 +58,8 @@ Output:
 3. Plain language explanation of rights
 4. Next steps and recommendations
 ```
-
+ ![CourtIQ](./img/CourtIQ.png)
+ 
 ## Project Structure 📂
 ```
 ├── CourtIQ.py          # Main application file
